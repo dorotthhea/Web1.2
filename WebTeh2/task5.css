@@ -1,0 +1,19 @@
+body {
+    margin:0;
+}
+.verh{
+    background-color: forestgreen;
+    color: white;
+    margin: 20px auto 20px auto;
+    width: 450px;
+    font-size: smaller;
+   }
+.niz{
+    background-color: blue;
+    color: white;
+    margin: 20px auto 20px auto;
+    padding: 30px;
+    border: 10px solid blue;
+    width: 450px;
+    font-size: smaller;
+}

@@ -1,0 +1,11 @@
+body {
+    margin:0;
+}
+.centar{
+    background-color: blue;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    margin: 15px auto 15px auto;
+    max-width: 500px;
+    width: 100%;
+}

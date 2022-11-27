@@ -1,0 +1,30 @@
+body {
+    margin:10px;
+    }
+    .rozov{
+    background-color: bisque ;
+    color: black ;
+    width: 160px;
+    height: 85px;
+    position: absolute;
+    }
+    .biruz{
+    background-color: aqua ;
+    width:100%;
+    position:relative;
+    }
+    .ser{
+    background-color: darkgray ;
+    color: black ;
+    position: relative;
+    margin-left: 160px;
+    } 
+    
+    footer{
+     background-color: limegreen;
+     height: 80px;
+     right: 0;
+     left: 0;
+     bottom: 0;
+     position: fixed;
+     }

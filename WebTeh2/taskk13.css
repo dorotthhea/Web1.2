@@ -1,0 +1,29 @@
+body
+.rozov {
+    position: absolute;
+    background-color: bisque;
+    width: 100%;
+    color: black;
+}
+
+.biruz {
+    position: relative;
+    background-color: aqua;
+    max-width: 100%;
+    height: 100%;
+    border: 1px solid forestgreen;
+}
+
+.ser {
+    position: relative;
+    background-color: darkgrey;
+    left: 15%;
+    width: 85%;
+}
+
+
+img {
+    float:right;
+    width:45%;
+    height: 45%;
+}

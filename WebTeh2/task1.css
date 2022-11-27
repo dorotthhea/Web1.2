@@ -1,0 +1,39 @@
+body {
+    margin:0;
+    height: 100%;
+}
+header{
+    background-color: #EAEAEA;
+    text-align: left;
+    color: black;
+    padding-top: 0;
+    padding-bottom: 2rem;
+    font-size: 31px;
+    
+}
+.left{
+    background-color: #C8FC98;
+    text-align: left;
+    color: black;
+    padding-top: 0;
+    width: 200px;
+    height: 100%;
+    float:left;
+    margin-right: 5px;
+    padding: 3px;
+    font-size: 16.7px;
+
+}
+i{
+    color: red;
+}
+a{
+    color:yellow;
+}
+footer{
+    background-color: black;
+    padding-bottom: 3px;
+    text-align: center;
+    clear: both;
+    
+}

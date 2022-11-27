@@ -1,0 +1,43 @@
+body {
+    margin:10px;
+    }
+    .rozov{
+    background-color: bisque ;
+    color: black ;
+    width: 200px;
+    height: 85px;
+    position: absolute;
+    }
+    .biruz{
+    background-color: aqua ;
+    width:100%;
+    position:relative;
+    border: 1px solid forestgreen;
+    }
+    .ser{
+    background-color: darkgray ;
+    color: black ;
+    position: relative;
+    margin-left: 205px;
+    max-width: 84%;
+    } 
+    @media screen and (max-width:800px) {
+        .rozov {
+            background-color: bisque;
+            height: 85px;
+            width: 120px;
+            position: absolute;
+        }
+    
+        .ser {
+            width: 70%;
+            height: 50%;
+            color: black;
+            background-color: darkgray;
+            position: relative;
+            left: -205px;
+            top: +85px;
+        }
+    }
+
+

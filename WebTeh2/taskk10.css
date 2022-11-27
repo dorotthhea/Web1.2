@@ -1,0 +1,19 @@
+body {
+    margin:0;
+}
+.floatbox {
+    background-color: aquamarine;
+    width: 170px;
+    height: 100px;
+    float:left;
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom:20px;
+}
+.clearpr{
+    margin-left: 5px;
+    clear:both;
+    width:98.5%;
+    background-color:bisque;
+    margin-right: 5px;
+}

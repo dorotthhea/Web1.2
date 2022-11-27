@@ -1,0 +1,15 @@
+body {
+    margin:0;
+}
+.verh{
+    margin: 20px auto 20px auto;
+    width: 450px;
+    font-size: smaller;
+   }
+.niz{
+    margin: 20px auto 20px auto;
+    padding: 40px;
+    border: 10px solid blue;
+    width: 340px;
+    font-size: smaller;
+}
